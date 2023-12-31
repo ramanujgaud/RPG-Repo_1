@@ -1,2 +1,2 @@
-# RPG-Repo_1
+# RPG Repo_1
 My First Repository
